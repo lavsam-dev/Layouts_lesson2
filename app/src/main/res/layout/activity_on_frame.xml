@@ -6,8 +6,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/key_1"
-        />
+        android:text="@string/key_1" />
 
     <Button
         android:layout_width="wrap_content"
